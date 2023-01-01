@@ -1,0 +1,64 @@
+body {
+    background-color: #fff;
+    font-family: 'Inter';
+}
+
+
+nav {
+    background-color: #BF0603;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+nav li {
+    display: inline-block;
+    padding: 2rem;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #fff;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-size: 1.1rem;
+}
+
+nav li a:hover {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
+
+.homeRectangle{
+    background-color: #001C36;
+    width: 30rem;
+    height: 90vh;
+}
+
+main {
+    display: flex;
+}
+
+.homeContent{
+    margin-left: 8rem;
+    display: flex;
+    flex-grow: 1;
+    line-height: 1.5rem;
+    color: #BF0603;
+    height: 90vh;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.homeHello{
+    font-size: 8rem;
+    color: #001C36;
+}
+
+.homeName{
+    font-size: 2rem;
+}
