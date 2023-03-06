@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e5f2b74d.css",
-    "main.js": "/static/js/main.62300b88.js",
+    "main.js": "/static/js/main.ab767be7.js",
     "static/js/787.cbcd5b72.chunk.js": "/static/js/787.cbcd5b72.chunk.js",
     "static/media/little-lemon.png": "/static/media/little-lemon.e0b221b6076ba0270872.png",
     "static/media/maynooth-furniture.png": "/static/media/maynooth-furniture.28279027de1c2f5d83fc.png",
@@ -16,11 +16,11 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.e5f2b74d.css.map": "/static/css/main.e5f2b74d.css.map",
-    "main.62300b88.js.map": "/static/js/main.62300b88.js.map",
+    "main.ab767be7.js.map": "/static/js/main.ab767be7.js.map",
     "787.cbcd5b72.chunk.js.map": "/static/js/787.cbcd5b72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5f2b74d.css",
-    "static/js/main.62300b88.js"
+    "static/js/main.ab767be7.js"
   ]
 }
